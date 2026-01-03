@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-active%20development-orange.svg)
+
 **Defensive Audit Toolkit for Low‑Artifact Persistence on Linux**
 
 ---
